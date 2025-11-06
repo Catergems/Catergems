@@ -4,4 +4,4 @@ The person who likes programming languages and English
 
 ## Programming language often used
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
